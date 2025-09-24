@@ -1,0 +1,17 @@
+# Command line.file management.github
+
+goal for today = upload sample files from your computer to a github repo, using git bash or terminal
+
+GUI - graphical user interface
+
+Gitbash is pretty close to a linux shell
+
+WSL = Windows subsystem for linux
+
+$pwd = print working directory (where you are in the computer)
+Directory is a folder in your computer
+
+$ls = list storage - allows you to view files and folders in current directory
+
+cd = change directory
+
